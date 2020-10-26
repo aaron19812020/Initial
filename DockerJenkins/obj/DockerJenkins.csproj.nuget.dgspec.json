@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DockerJenkins\\DockerJenkins\\DockerJenkins.csproj": {}
+    "F:\\github\\Initial\\DockerJenkins\\DockerJenkins.csproj": {}
   },
   "projects": {
-    "E:\\DockerJenkins\\DockerJenkins\\DockerJenkins.csproj": {
+    "F:\\github\\Initial\\DockerJenkins\\DockerJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DockerJenkins\\DockerJenkins\\DockerJenkins.csproj",
+        "projectUniqueName": "F:\\github\\Initial\\DockerJenkins\\DockerJenkins.csproj",
         "projectName": "DockerJenkins",
-        "projectPath": "E:\\DockerJenkins\\DockerJenkins\\DockerJenkins.csproj",
+        "projectPath": "F:\\github\\Initial\\DockerJenkins\\DockerJenkins.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\DockerJenkins\\DockerJenkins\\obj\\",
+        "outputPath": "F:\\github\\Initial\\DockerJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
